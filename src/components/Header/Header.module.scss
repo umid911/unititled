@@ -1,0 +1,28 @@
+body {
+    background: #EFEFF2;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #FFFFFF;
+
+    &__nav {
+    height: 70px;
+    display: flex;
+    align-items: center;
+    }
+    &__text {
+
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 120%;
+        text-transform: uppercase;
+        color: #3F3F3F;
+        padding-left: 30px;
+        background: #FFFFFF;
+    }
+
+
+}
