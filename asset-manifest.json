@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/unititled/static/css/main.e4a8417e.css",
+    "main.js": "/unititled/static/js/main.6d4847f8.js",
+    "static/media/OpenSans-Regular.ttf": "/unititled/static/media/OpenSans-Regular.77c09223204154ae8d43.ttf",
+    "static/media/OpenSans-Bold.ttf": "/unititled/static/media/OpenSans-Bold.fa428cdd2e334e2be904.ttf",
+    "static/media/OpenSans-Light.ttf": "/unititled/static/media/OpenSans-Light.55d5015c3ced03510e63.ttf",
+    "index.html": "/unititled/index.html",
+    "main.e4a8417e.css.map": "/unititled/static/css/main.e4a8417e.css.map",
+    "main.6d4847f8.js.map": "/unititled/static/js/main.6d4847f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4a8417e.css",
+    "static/js/main.6d4847f8.js"
+  ]
+}
